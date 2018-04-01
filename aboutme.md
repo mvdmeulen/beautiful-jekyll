@@ -4,13 +4,21 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# About
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This blog is a space for my irregular personal and academic ramblings and a place where you can find some more info about me. Welcome, visitor!
+Mini-me
 
-What else do you need?
+Marten van der Meulen, Sociologist of Religion. Areas of professional interest: religion & immigration, #tp14 and #tp15, social capital, civil society, evangelicalism, pentecostalism, practical theology, emerging churches, village churches, city churches, migrant churches, Protestant churches, Dutch churches, all churches, basically.
 
-### my history
+Learn more about my professional life here
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Current research
+
+At the moment (2018) I work at the Protestant Theological University in Groningen, the Netherlands. I am involved in different researches, most of them associated with research platform [http://pthu.nl/ccc](Connecting Churches and Cultures)
+
+# Older research
+
+From 2005 – 2010 I worked as a postdoc at the [http://www.vu.nl](VU University), studying migrant churches in Amsterdam.
+
+In June 2006 I finished a PhD study titled “Vroom in de Vinex. Kerk en civil society in Leidsche Rijn” (“Faith in the Suburb. Church and Civil Society in Leidsche Rijn”). My research is based on (mostly) etnographic fieldwork in Leidsche Rijn, the largest new VINEX building project in the Netherlands. During the year 2002 I followed two church-building projects, an ecumenical project called “Being Church in Leidsche Rijn” and a conservative reformed project, called RijnWaarde.
